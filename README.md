@@ -11,6 +11,7 @@
 # Hướng dẫn sử dụng data theo model yoliv5
 
 Data bao gồm 3 file: Train, Test, Vali kiểu dữ liệu theo Yolo
+
 Mỗi file gồm 2 tập : Images và Labels
 
 Khi train ta tạo một file data.yaml để quản lí 3 file cùng số class
