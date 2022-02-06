@@ -1,0 +1,8 @@
+path: /content/data
+train: train/images
+valid: valid/images
+test: test/images
+
+
+nc: 99
+names: ['ban chai danh rang','bot gao loc','bot ngot','dao cao rau','dau dau nanh','dau an sizeLon','dau goi dl Nguyen Xuan','dau goi headandshouder1','dau xa sunsill','dung dich vs da huong','Bui nhui Sun','do rua chen','kem xua muoi','dam an','giay vs','banh trang','hop bo','hop giay bac','bat lua','hop tui zip','hop tra dao','keo 502','keo cao su','Bich khau trang','mam tom','nui ba bay','nuoc khoang','nuoc lau san fix','nuoc mam','nuoc mam thai long','nuoc rua chen','nuoc xa vai','nuoc suc mieng','nuoc tay javel','nuoc tay toliet Vim','nuoc yen lon','sap thom','hop snack khoai tay Slide','sot mayone','sua bich co duong','sua chua hop','hop sua dac ngoi sao','sua hop grow plus','sua hop vinamilk','sua tam lifebouy1','sua tam lifebouy2','tuong ot chinsu','Baking Soda','BCS','Bai tay DK','Banh gao An','Banh quy cosy','Banh quy socola','Banh soi ga Bon','Binh xit phong','But xoa','Chi nha khoa','Cuon chi AGFA','Ca phe sua dang tui','Ca phe den dang tui','Ca hop 3 co gai','Con 70 do','duong toc','dau gio','dau goi Enchanteur','gel ve sinh','giay an','Gao lut DB','Heo lat hop','Hop gang tay y te','Banh khoai tay nuong','hop diem','Hop tra chanh','Hop trung ga','Hop tam','Hu tieu Nam vang','Keo bac ha','Keo huong tra sua','Keo nho','Keo huong xoai nhan muoi oi','Bot milo','Muoi hong Himalaya','Muoi iot','Mam nem','Nuoc muoi sinh li','Nuoc mau dua','Ruou vodka','Ruou whisky chivas','Snack bo luc lac','Snack phomai','Snack tom cay','Sua bich khong duong','Sua dac star hop giay','Thuoc la star','Tieu den','Tay te bao chet','Xit khu mui Rexona','Ao mua','Khan giay']
