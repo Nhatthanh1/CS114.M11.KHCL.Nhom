@@ -8,7 +8,7 @@
 |2|[Trần Trung Tín](https://github.com/TTTin239)|19522351|
 |3|[Nguyễn Ngọc Tân](https://github.com/nguyenngoctan1803)|19522174|
 
-#Hướng dẫn sử dụng data theo model yoliv5
+# Hướng dẫn sử dụng data theo model yoliv5
 
 Data bao gồm 3 file: Train, Test, Vali kiểu dữ liệu theo Yolo
 Mỗi file gồm 2 tập : Images và Labels
