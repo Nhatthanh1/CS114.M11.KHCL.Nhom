@@ -9,7 +9,8 @@
 |3|[Nguyễn Ngọc Tân](https://github.com/nguyenngoctan1803)|19522174|
 
 # Hướng dẫn sử dụng data theo model yoliv5
-
+ link data: https://drive.google.com/drive/folders/1ToUmT6J8FZ7TyhbOi_65QraC5gDQtDwb?usp=sharing
+ 
 Data bao gồm 3 file: Train, Test, Vali kiểu dữ liệu theo Yolo
 
 Mỗi file gồm 2 tập : Images và Labels
